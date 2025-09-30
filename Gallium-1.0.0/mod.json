@@ -6,9 +6,10 @@
 	},
 	"id": "retrocantata.gallium",
 	"name": "Gallium",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "retrocantata",
 	"description": "performance mod"
         "platforms": ["windows", "android64"]
 
 }
+
